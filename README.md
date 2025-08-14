@@ -21,7 +21,7 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/unitednations/black/white" alt="United Nations" title="United Nations" />](https://elounge.unssc.org/user/profile.php?id=48925)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pluralsight/black/white" alt="Pluralsight" title="Pluralsight" />](https://app.pluralsight.com/profile/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/cisco/black/white" alt="Cisco" title="Cisco" />](https://community.cisco.com/t5/user/viewprofilepage/user-id/1503686)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/discord/black/white" alt="Discord" title="Discord" />](https://discord.gg/u9pwe7Gq)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/discord/black/white" alt="Discord" title="Discord" />](https://discord.gg/e5FhBQUW)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/whatsapp/black/white" alt="WhatsApp" title="WhatsApp" />](https://wa.me/qr/OVXDWY2TN2FPF1)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mercadopago/black/white" alt="Mercado Pago" title="Mercado Pago" />](https://link.mercadopago.cl/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/khanacademy/black/white" alt="Khan Academy" title="Khan Academy" />](https://es.khanacademy.org/profile/ElProConLag/badges)
@@ -46,3 +46,4 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/edx/black/white" alt="edX" title="edX" />](https://profile.edx.org/u/ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/exercism/black/white" alt="Exercism" title="Exercism" />](https://forum.exercism.org/u/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/acer/black/white" alt="Acer" title="Acer" />](https://community.acer.com/es/profile/756298/ElProConLag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/zoom/black/white" alt="Zoom" title="Zoom" />](https://zoom.us/launch/chat?src=direct_chat_link&email=camilo.pinto1%40mail.udp.cl)
