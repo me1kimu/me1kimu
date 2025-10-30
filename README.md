@@ -21,7 +21,7 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/unitednations/black/white" alt="United Nations" title="United Nations" />](https://elounge.unssc.org/user/profile.php?id=48925)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pluralsight/black/white" alt="Pluralsight" title="Pluralsight" />](https://app.pluralsight.com/profile/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/cisco/black/white" alt="Cisco" title="Cisco" />](https://community.cisco.com/t5/user/viewprofilepage/user-id/1503686)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/discord/black/white" alt="Discord" title="Discord" />](https://discord.gg/Sb6ZEcYj)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/discord/black/white" alt="Discord" title="Discord" />](https://discord.com/users/397931947621482497)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/whatsapp/black/white" alt="WhatsApp" title="WhatsApp" />](https://wa.me/qr/OVXDWY2TN2FPF1)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mercadopago/black/white" alt="Mercado Pago" title="Mercado Pago" />](https://link.mercadopago.cl/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/khanacademy/black/white" alt="Khan Academy" title="Khan Academy" />](https://es.khanacademy.org/profile/ElProConLag/badges)
