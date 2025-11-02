@@ -47,3 +47,8 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/exercism/black/white" alt="Exercism" title="Exercism" />](https://forum.exercism.org/u/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/acer/black/white" alt="Acer" title="Acer" />](https://community.acer.com/es/profile/756298/ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/zoom/black/white" alt="Zoom" title="Zoom" />](https://zoom.us/launch/chat?src=direct_chat_link&email=camilo.pinto1%40mail.udp.cl)
+
+Upcoming events I'll be attending:
+- [DevFest Santiago 2025](https://gdg.community.dev/events/details/google-gdg-santiago-de-chile-presents-devfest-santiago-2025/cohost-gdg-santiago-de-chile)
+- [CITYLOG Presenta 2025-XII](https://ingenieriayciencias.udp.cl/agenda/citylog-presenta-2025-xii-costos-calidad-y-sustentabilidad-en-transporte-por-carretera/)
+- [Wüellas Geek Fest](https://tally.so/r/wLRW4p)
