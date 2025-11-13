@@ -34,12 +34,12 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/googledocs/black/white" alt="Google Docs" title="Google Docs" />](https://www.skills.google/public_profiles/f2c13f83-6476-4bc7-9297-bf94fe529953/badges/2548546)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/googleslides/black/white" alt="Google Slides" title="Google Slides" />](https://www.skills.google/public_profiles/f2c13f83-6476-4bc7-9297-bf94fe529953/badges/2587495)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/slack/black/white" alt="Slack" title="Slack" />](https://join.slack.com/shareDM/zt-30ezoncv6-pu_yqDF9sQf4o3Bax~WVEg)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/githubsponsors/black/white" alt="GitHub Sponsors" title="GitHub Sponsors" />](https://github.com/sponsors/ElProConLag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/githubsponsors/black/white" alt="GitHub Sponsors" title="GitHub Sponsors" />](https://github.com/sponsors/me1kimu)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/uber/black/white" alt="Uber" title="Uber" />](https://referrals.uber.com/refer?id=ase3eua9gqbw)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/ubereats/black/white" alt="Uber Eats" title="Uber Eats" />](https://ubereats.com/feed?promoCode=eats-hp613uzkue)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/ingress/black/white" alt="Ingress" title="Ingress" />](https://link.ingress.com/?link=https%3A%2F%2Fintel.ingress.com%2Fagent%2FCEPRojas&apn=com.nianticproject.ingress&isi=576505181&ibi=com.google.ingress&ifl=https%3A%2F%2Fapps.apple.com%2Fapp%2Fingress%2Fid576505181&ofl=https%3A%2F%2Fwww.ingress.com%2F)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/wise/black/white" alt="Wise" title="Wise" />](https://wise.com/pay/me/camiloestebanp5)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/gnome/black/white" alt="GNOME" title="GNOME" />](https://gitlab.gnome.org/camilo.pinto1)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/gnome/black/white" alt="GNOME" title="GNOME" />](https://gitlab.gnome.org/me1kimu)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/protondb/black/white" alt="ProtonDB" title="ProtonDB" />](https://www.protondb.com/users/498934936)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/orcid/black/white" alt="ORCID" title="ORCID" />](https://orcid.org/0009-0008-5573-0541)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/snapcraft/black/white" alt="Snapcraft" title="Snapcraft" />](https://forum.snapcraft.io/u/snap)
@@ -50,5 +50,4 @@
 
 Upcoming events I'll be attending:
 - [DevFest Santiago 2025](https://gdg.community.dev/events/details/google-gdg-santiago-de-chile-presents-devfest-santiago-2025/cohost-gdg-santiago-de-chile)
-- [34º Festival de Música Contemporánea UC | Día 4](https://welcu.com/musica-uc/gam-34-festival-de-musica-contemporanea-uc-dia-4)
 - [Wüellas Geek Fest](https://tally.so/r/wLRW4p)
