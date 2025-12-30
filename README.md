@@ -5,4 +5,4 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/zoom/black/white" alt="Zoom" title="Zoom" />](https://zoom.us/launch/chat?src=direct_chat_link&email=camilo.rojas2%40mail.udp.cl)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/whatsapp/black/white" alt="WhatsApp" title="WhatsApp" />](https://wa.me/qr/OVXDWY2TN2FPF1)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/coursera/black/white" alt="Coursera" title="Coursera" />](https://www.coursera.org/user/44186fe43c537eb323bcd954bbd48ce0)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/credly/black/white" alt="Credly" title="Credly" />](https://www.credly.com/users/elproconlag/badges)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/credly/black/white" alt="Credly" title="Credly" />](https://www.credly.com/users/me1kimu/badges)
