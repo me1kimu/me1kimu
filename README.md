@@ -7,3 +7,8 @@
 [<img height="60" width="60" src="https://cdn.simpleicons.org/coursera/black/white" alt="Coursera" title="Coursera" />](https://www.coursera.org/user/44186fe43c537eb323bcd954bbd48ce0)
 [<img height="60" width="60" src="https://cdn.simpleicons.org/credly/black/white" alt="Credly" title="Credly" />](https://www.credly.com/users/me1kimu/badges)
 [<img height="60" width="60" src="https://cdn.simpleicons.org/freecodecamp/black/white" alt="freeCodeCamp" title="freeCodeCamp" />](https://www.freecodecamp.org/me1kimu)
+
+Upcoming events I'll be attending:
+- [Congreso Futuro 2026](https://congresofuturo.cl) (CEINA & MUT)
+- [Santiago Off 2026](https://www.santiagooff.com)
+- [Festival Teatro a Mil](https://www.teatroamil.cl)
