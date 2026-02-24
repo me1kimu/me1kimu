@@ -1,5 +1,5 @@
 [<img height="60" width="60" src="https://cdn.simpleicons.org/telegram/black/white" alt="Telegram" title="Telegram" />](https://me1kimu.t.me)
-[<img height="60" width="60" src="https://cdn.simpleicons.org/signal/black/white" alt="Signal" title="Signal" />](https://signal.me/#eu/CyALZqGLOkrLxl2Zh-3AHlA2tqzbsqUfTSiOPO9dJE67XBr2CcBFRql9fxUEG2bW)
+[<img height="60" width="60" src="https://cdn.simpleicons.org/signal/black/white" alt="Signal" title="Signal" />](https://signal.me/#eu/t3tf829SIO6T7HnxxVUCjrnZPMVwa4PLRE6LHEDQuUWhUpXCYXBA2pJOcVdgkW8_)
 [<img height="60" width="60" src="https://cdn.simpleicons.org/matrix/black/white" alt="Matrix" title="Matrix" />](https://matrix.to/#/@elproconlag:fedora.im)
 [<img height="60" width="60" src="https://cdn.simpleicons.org/discord/black/white" alt="Discord" title="Discord" />](https://discord.com/users/397931947621482497)
 [<img height="60" width="60" src="https://cdn.simpleicons.org/zoom/black/white" alt="Zoom" title="Zoom" />](https://zoom.us/launch/chat?src=direct_chat_link&email=camilo.rojas2%40mail.udp.cl)
